@@ -1,0 +1,4 @@
+# Choose [postgres, mysql, mariadb, sqlite]
+engine: sqlite
+host: localhost
+password: password
